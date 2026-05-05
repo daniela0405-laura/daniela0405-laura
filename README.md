@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: LAURA DANIELA AVILES PERDOMO
+FULL_NAME: Laura daniela aviles perdomo 
 GITHUB_USER: daniela0405-laura
 EMAIL: senalpd2000@gmail.com
 CODE_ORGANIZATION: code-sena
@@ -50,14 +50,6 @@ Me apasiona el mundo de la tecnología, especialmente el desarrollo de software 
 
 ---
 
-## 📚 Actualmente aprendiendo
-- Diseño de bases de datos relacionales  
-- Desarrollo web (HTML, CSS, JavaScript)  
-- Control de versiones con Git  
-- Buenas prácticas de programación  
-
----
-
 ## 📁 Proyectos destacados
 - 📌 Sistema de gestión de citas odontológicas  
 - 📌 Modelado de base de datos (MER y MR)  
@@ -65,8 +57,7 @@ Me apasiona el mundo de la tecnología, especialmente el desarrollo de software 
 
 
 
-## 🏫 Información institucional
-Este perfil hace parte de la organización **code-sena**, como parte del proceso de formación en el SENA.
+
 
 
 
