@@ -43,7 +43,7 @@ Me apasiona el mundo de la tecnología, especialmente el desarrollo de software 
 
 ## 🛠️ Tecnologías en formación
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,java,mysql,git,github" />
 </p>
 
 ---
