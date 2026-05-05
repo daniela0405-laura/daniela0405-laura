@@ -1,9 +1,9 @@
 ## 📄 Información
 
-- Nombre: Laura Daniela Aviles Perdomo  
-- Usuario GitHub: daniela0405-laura  
-- Email: senalpd2000@gmail.com  
-- Organización: code-sena  
+- FULL_NAME: Laura Daniela Aviles Perdomo  
+-GITHUB_USER : daniela0405-laura  
+- EMAIL: senalpd2000@gmail.com  
+- CODE_SENA_URL: https://github.com/code-sena  
 -----  
 
 **daniela0405-laura/daniela0405-laura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
