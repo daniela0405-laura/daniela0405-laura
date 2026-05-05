@@ -1,12 +1,11 @@
-<!--
-CONFIG
-FULL_NAME: Laura daniela aviles perdomo 
-GITHUB_USER: daniela0405-laura
-EMAIL: senalpd2000@gmail.com
-CODE_ORGANIZATION: code-sena
--->
+## 📄 Información
 
-<!--
+- Nombre: Laura Daniela Aviles Perdomo  
+- Usuario GitHub: daniela0405-laura  
+- Email: senalpd2000@gmail.com  
+- Organización: code-sena  
+-----  
+
 **daniela0405-laura/daniela0405-laura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🚀 Repositorio institucional
@@ -17,7 +16,7 @@ Este repositorio está asociado a la organización **code-sena**.
   🎓 Aprendiz SENA | 💻 ADSO | 📊 Bases de Datos | 🚀 Futuro Desarrollador
 </p>
 
----
+-----
 
 ## 👩‍💻 Sobre mí
 Soy aprendiz del programa **Análisis y Desarrollo de Software (ADSO)** del SENA, con interés en el diseño y desarrollo de soluciones tecnológicas que optimicen procesos reales.
