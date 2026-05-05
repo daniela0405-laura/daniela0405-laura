@@ -18,10 +18,11 @@ Este repositorio está asociado a la organización **code-sena**.
 
 -----
 
+
 ## 👩‍💻 Sobre mí
 Soy aprendiz del programa **Análisis y Desarrollo de Software (ADSO)** del SENA, con interés en el diseño y desarrollo de soluciones tecnológicas que optimicen procesos reales.
 
-Me apasiona el mundo de la tecnología, especialmente el desarrollo de software y la gestión de bases de datos. Actualmente me encuentro fortaleciendo mis conocimientos en programación y uso de herramientas colaborativas como GitHub.
+Me apasiona el mundo de la tecnología, especialmente el desarrollo de software y la ciberseguridad. Actualmente me encuentro fortaleciendo mis conocimientos en programación y uso de herramientas colaborativas como GitHub.
 
 ---
 
@@ -32,13 +33,11 @@ Me apasiona el mundo de la tecnología, especialmente el desarrollo de software 
 - Participar en proyectos reales de software  
 
 ---
-
 ## 🧠 Habilidades Técnicas
-- 📊 Modelado de bases de datos (MER y MR)  
-- 🗄️ SQL básico  
-- 💻 Lógica de programación  
-- 🔧 Git y GitHub  
-- 📋 Análisis de sistemas  
+- 💻 Lógica de programación    
+- 🗄️ Manejo básico de bases de datos (MySQL, SQL Server)  
+- 🐳 Uso de Docker para gestión de contenedores  
+- 🔧 Control de versiones con Git y GitHub  
 
 ---
 
